@@ -17,6 +17,7 @@ Currently, the system relies on conditional statements within the Account class 
   * Delegate actions like deposit, withdraw, activate, suspend, and close to the current state object through its corresponding methods.
  
 ## UML Diagram
+![Blank diagram](https://github.com/mfulo/statePattern/assets/142382665/f32f005f-7c17-4019-a0a4-7da86104f3b8)
 
 ## Sample Output
 ![image](https://github.com/mfulo/statePattern/assets/142382665/a0dde9c5-2ee7-4ca9-8448-8124d4f65c0f)
